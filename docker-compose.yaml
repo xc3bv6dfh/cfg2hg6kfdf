@@ -1,5 +1,5 @@
 services:
-  oktewe:
+  xfhbtyjddf:
     build: .
     shm_size: 2.6gb
     ports:
